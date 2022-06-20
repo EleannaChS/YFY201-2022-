@@ -7,3 +7,5 @@ The project was created in the context of the course "Computational Quantum Phys
 <li>SqBilliardQM.py</li>
   The program SqBilliardQM.py solves Schrodinger's time-dependent equation for wave packet motion on a mathematical square billiard table.¶
 </ol>
+
+It also contains a pdf file with the jupyter notebook that was used during the presentation of the project.
